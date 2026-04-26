@@ -3,7 +3,7 @@ import { CurrencyProvider } from "@/context/CurrencyContext";
 import "./globals.css";
 
 export const metadata = {
-  title: "Prestige Motors | Luxury & Premium Vehicles",
+  title: "Car Dealership| Luxury & Premium Vehicles",
   description: "Discover a curated collection of premium vehicles. Competitive financing, certified inspections, and white-glove delivery.",
 };
 
